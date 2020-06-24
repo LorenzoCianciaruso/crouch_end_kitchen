@@ -1,4 +1,5 @@
 # Lazy Ciabatta
+London, 23/06/2020
 
 ## References: 
 - [The Perfect Loaf](https://www.theperfectloaf.com/ciabatta-bread-recipe/)
@@ -17,15 +18,20 @@
 1020g dough, split into 2 doughs
 
 ## Steps
-* Mix flour, salt, water with yeast
-* Strenthen the dough by moving it in the container
-* Leave it on the counter for 2 hours, with 3 stretch and fold every 30min
-* After 2 hours, preheat the oven to 230
-* Put abundant flour on the counter, take out the dough and fold all the edges into the center, rest for 1 moving
-* Split into 2 ciabattas, roll into the flower with the cutted side bottom down, rest for another minute
+1. Mix flour, salt, water with yeast
+2. Strenthen the dough by moving it in the container
+3. Leave it on the counter for 2 hours, with 3 stretch and fold every 30min
+4. After 2 hours, preheat the oven to 230
+5. Put abundant flour on the counter, take out the dough and fold all the edges into the center, rest for 1 moving
+6. Split into 2 ciabattas, roll into the flower with the cutted side bottom down, rest for another minute
 
 ## Baking
 20 minutes @230 followed by 20 minutes @210
+
+## Review
+**Crust**: Thin and crunchy, but not tough 4/5
+**Crumbs**: Delicate, airy and soft 4/5
+**Taste**: The high hydration makes the difference, almost the texture of a focaccia 4/5
 
 ## Future experiments
 - try 87% hidration
